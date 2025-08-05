@@ -31,3 +31,4 @@ Created by Abigail Aba Afedua Bimpong.
 ## License
 
 This project is for educational purposes.
+![alt text](<Screenshot 2025-08-05 214226.jpg>) ![alt text](<Screenshot 2025-08-05 213846.jpg>) ![alt text](<Screenshot 2025-08-05 214413.jpg>) ![alt text](<Screenshot 2025-08-05 214325.jpg>)
